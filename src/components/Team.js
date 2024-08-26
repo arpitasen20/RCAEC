@@ -103,7 +103,7 @@ const Team = () => {
     {
       id: 16,
       name: 'Yuvraj Singh',
-      role: 'Co Internal & External Affair Lead',
+      role: 'Internal & External Affair Lead',
       image: '/assets/RC/yuvraj.jpg', 
     },
     {
