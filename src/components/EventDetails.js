@@ -109,8 +109,8 @@ const EventTitle = styled.h1`
 `;
 
 const EventImage = styled.img`
-  max-width: 100%;
-  height: auto;
+  height: 500px;
+  width: auto;
   border-radius: 8px;
   margin-bottom: 1rem;
 
