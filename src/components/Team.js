@@ -11,6 +11,18 @@ const Team = () => {
       image: '/assets/RC/Aditya Bhaiya.jpg', 
     },
     {
+      id: 1,
+      name: 'Harsh Kumar',
+      role: 'Vice President',
+      image: '/assets/RC/Harsh.jpg', 
+    },
+    {
+      id: 2,
+      name: 'Sonal Mahato',
+      role: 'Co Photography Lead',
+      image: '/assets/RC/sonal.jpg', 
+    },
+    {
       id: 2,
       name: 'Purba Mondal',
       role: 'Secretary',
@@ -123,6 +135,25 @@ const Team = () => {
       name: 'Gargi Mahata',
       role: 'Co Event & Multimedia Lead',
       image: '/assets/RC/gargi.jpg', 
+    },
+    {
+      id: 19,
+      name: 'Arpit Sharma',
+      role: 'Weekly Event Coordinator',
+      image: '/assets/RC/Arpit.jpg', 
+    },
+    {
+      id: 19,
+      name: 'Jeet Karmakar',
+      role: 'Weekly Event Coordinator',
+      image: '/assets/RC/Jeet Karmakar.jpg', 
+    },
+    
+    {
+      id: 19,
+      name: 'Tanisha Gupta',
+      role: 'Monthly Tech-Talk Coordinator',
+      image: '/assets/RC/Tanisha Gupta.jpg', 
     },
     // Add more members as needed
   ];

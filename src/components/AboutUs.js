@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import Footer from './Footer';
 import Team from './Team';
+import Teacher from './Teacher';
 
 // Example image URLs
 const imageUrls = [
@@ -104,6 +105,7 @@ const AboutUs = () => {
         />
       </PhotoSection>
 
+      <Teacher/>
       <Team /> {/* Team component */}
       <Footer /> {/* Footer component */}
     </AboutUsContainer>

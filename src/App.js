@@ -8,6 +8,7 @@ import Events from './components/Events';
 import EventDetails from './components/EventDetails'; // Import EventDetails component
 import Team from './components/Team';
 import Footer from './components/Footer';
+import Teacher from './components/Teacher';
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
               <Hero />
               <About />
               <Events />
+              <Teacher/>
               <Team />
               <Footer />
             </>
