@@ -41,6 +41,43 @@ const eventData = [
     - 6th September 12 hrs Hackathon and shortlisting 
     - 9th September final PPT based presentation and shortlisting by External experts 
     - All of you be ready with yours PPT by choosing Problem statements given by Ministries in SIH portal 👍
+
+    Round One:
+
+This round focuses on presenting your ideas effectively. Your task is to create a compelling presentation and video submission that clearly outlines your project, its goals, and how it addresses the problem statement.
+
+Submission Guidelines:
+
+Presentation (PPT) Submission:
+
+Slide Limit: Follow the official Format provided by SIH 2024.
+Content: Your presentation should include the following:
+Title Slide: Project name, team name, and members.
+Problem Statement: Briefly explain the issue you are addressing.
+Solution Overview: Describe your proposed solution and how it works.
+Technology Stack: Highlight the technologies you will use.
+*Unique Selling Proposition (USP): What makes your solution stand out?
+Implementation Plan: Outline the steps you plan to take to develop the project.
+Team Roles: Describe each team member's role in the project.
+Format: PDF format.
+Naming Convention: [TeamName_ProjectName_Round1.pdf]
+
+Video Submission:
+
+Duration: 3-5 minutes.(5 minutes Maximum) 
+Content: The video should cover the following:
+Introduction: Briefly introduce your team and project.
+Project Walkthrough: Explain your project, how it addresses the problem, and your approach.
+Demo (if applicable): Show any prototypes, wireframes, or initial work you've done.
+Closing Remarks: Sum up why your project deserves to move to the next round.
+Format: MP4 or MOV format.
+Naming Convention: [TeamName_ProjectName_Round1.mp4]
+Submission Process:
+
+Deadline: 30th August, 2024
+Submission Link: <a href="https://forms.gle/RUzD5atmGKtVhTND8" target="_blank" rel="noopener noreferrer">https://forms.gle/RUzD5atmGKtVhTND8</a>
+Important Note: Ensure that both the PPT and video are uploaded before the deadline. Late submissions will not be accepted.
+
     
     The problem statements which is given under <a href="https://www.sih.gov.in/sih2024PS" target="_blank" rel="noopener noreferrer">https://www.sih.gov.in/sih2024PS</a>    
     
