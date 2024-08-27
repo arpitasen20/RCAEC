@@ -17,6 +17,7 @@ const eventData = [
 
     In addition to the tips, Mannan will also provide an orientation on how to approach your SIH project, offering a step-by-step guide on what it takes to succeed in this national-level competition. 🌟 This session is an incredible opportunity to learn from a champion and to prepare yourself for the challenges ahead. Don’t miss out on this chance to be inspired and to elevate your hackathon game! 🤖💻
     
+    Meeting link: <a href="https://meet.google.com/gyw-fxzq-mjt" target="_blank" rel="noopener noreferrer">https://meet.google.com/gyw-fxzq-mjt</a>
     Join us and be part of the future of innovation!  `,
     registrationUrl: 'https://forms.gle/Kjtt2WTYcZuG3MBY9',
   },
