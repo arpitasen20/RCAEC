@@ -158,7 +158,7 @@ const Team = () => {
     {
       id: 20,
       name: 'Anirban Banerjee',
-      role: 'Treasurer weekly event coordinator',
+      role: 'Treasurer & weekly event coordinator',
       image: '/assets/RC/anirban.jpg', 
     },
     // Add more members as needed
