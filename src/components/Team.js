@@ -155,6 +155,12 @@ const Team = () => {
       role: 'Monthly Tech-Talk Coordinator',
       image: '/assets/RC/Tanisha Gupta.jpg', 
     },
+    {
+      id: 20,
+      name: 'Anirban Banerjee',
+      role: 'Treasurer weekly event coordinator',
+      image: '/assets/RC/anirban.jpg', 
+    },
     // Add more members as needed
   ];
 
